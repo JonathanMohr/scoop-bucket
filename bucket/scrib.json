@@ -1,0 +1,24 @@
+{
+    "description": "Text formatting tool",
+    "homepage": "https://github.com/JonathanMohr/scrib",
+
+    "license": {
+        "identifier": "Apache-2.0",
+        "url": "https://github.com/JonathanMohr/scrib/blob/v0.1.0-alpha/LICENSE"
+    },
+
+    "version": "0.1.0-alpha",
+
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/JonathanMohr/scrib/releases/download/v0.1.0-alpha/phx-windows-x86_64.zip",
+            "hash": "sha256:6fe1d28daa713932233caa90adaa375f86435822cfc815bfdb028367e6e40fa7"
+        },
+        "arm64": {
+            "url": "https://github.com/JonathanMohr/scrib/releases/download/v0.1.0-alpha/phx-windows-arm64.zip",
+            "hash": "sha256:0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+        }
+    },
+
+    "env_add_path": "bin"
+}
