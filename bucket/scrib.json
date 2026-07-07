@@ -4,19 +4,19 @@
 
     "license": {
         "identifier": "Apache-2.0",
-        "url": "https://github.com/JonathanMohr/scrib/blob/v0.1.0-alpha/LICENSE"
+        "url": "https://github.com/JonathanMohr/scrib/blob/v0.1.0-alpha.2/LICENSE"
     },
 
-    "version": "0.1.0-alpha",
+    "version": "0.1.0-alpha.2",
 
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JonathanMohr/scrib/releases/download/v0.1.0-alpha/scrib-windows-x86_64.zip",
-            "hash": "sha256:07dde25586ad1a510a498ac90a0fd14a2e670dca7cf5a51cddaca920be193deb"
+            "url": "https://github.com/JonathanMohr/scrib/releases/download/v0.1.0-alpha.2/scrib-windows-x86_64.zip",
+            "hash": "sha256:de6ccc3a1f5d4072c7c5f19246dc6b92dba3c50f1efc80207837b4b9bc220534"
         },
         "arm64": {
-            "url": "https://github.com/JonathanMohr/scrib/releases/download/v0.1.0-alpha/scrib-windows-arm64.zip",
-            "hash": "sha256:9d5351f3b959504baaacdca36652c0fc8d561f5ea2ba9ed017c21f8c85272cc1"
+            "url": "https://github.com/JonathanMohr/scrib/releases/download/v0.1.0-alpha.2/scrib-windows-arm64.zip",
+            "hash": "sha256:d1042a63ec187e8cd83973fb81875086738d15380dac94786e58636c73508a5d"
         }
     },
 
