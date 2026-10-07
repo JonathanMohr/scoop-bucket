@@ -12,11 +12,11 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/JonathanMohr/PHX/releases/download/v0.1.0-alpha.2/phx-windows-x86_64.zip",
-            "hash": "sha256:32dc263ef9a6121889cb24114ba082462c6a387e29c1a41cbc3d440e814f701a"
+            "hash": "sha256:7c5a70875af38fc4d45cf72a4fd1f20a92ae4571afb849c3830e4541c1102d19"
         },
         "arm64": {
             "url": "https://github.com/JonathanMohr/PHX/releases/download/v0.1.0-alpha.2/phx-windows-arm64.zip",
-            "hash": "sha256:1d731e5914250343ede09335a47a40592da83fce36f99f9084e3dc0c5ec9f2f0"
+            "hash": "sha256:a6c667c500785ec2bbee02fd220e24081f430e912faa20898380f50ccd90fe58"
         }
     },
 
