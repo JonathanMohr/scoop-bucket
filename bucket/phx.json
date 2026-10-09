@@ -7,16 +7,16 @@
         "url": "https://github.com/JonathanMohr/PHX/blob/v0.1.0-alpha.2/LICENSE"
     },
 
-    "version": "0.1.0-alpha.2",
+    "version": "0.1.0-alpha.2b",
 
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JonathanMohr/PHX/releases/download/v0.1.0-alpha.2/phx-windows-x86_64.zip",
-            "hash": "sha256:7c5a70875af38fc4d45cf72a4fd1f20a92ae4571afb849c3830e4541c1102d19"
+            "url": "https://github.com/JonathanMohr/PHX/releases/download/v0.1.0-alpha.2b/phx-windows-x86_64.zip",
+            "hash": "sha256:cf9ef55f2dc86c2ea191ac31322bd07413dc4c47385bb832c2dae32ba4823024"
         },
         "arm64": {
-            "url": "https://github.com/JonathanMohr/PHX/releases/download/v0.1.0-alpha.2/phx-windows-arm64.zip",
-            "hash": "sha256:a6c667c500785ec2bbee02fd220e24081f430e912faa20898380f50ccd90fe58"
+            "url": "https://github.com/JonathanMohr/PHX/releases/download/v0.1.0-alpha.2b/phx-windows-arm64.zip",
+            "hash": "sha256:0c90467cd1f99b094c44b6b6cbba0511cff2ca42c505df8547e1f51811fb790b"
         }
     },
 
