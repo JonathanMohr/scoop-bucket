@@ -1,4 +1,5 @@
 @echo off
+setlocal
 
 :: Usage: .\get_sha256.bat <url>
 
